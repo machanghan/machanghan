@@ -45,7 +45,9 @@ MCH<img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right"
 [![](https://chat.getloli.com/room/@github-mch.github/svg?width=600&height=280&limit=20&theme=light&title=留言板：（github-mch@github:%20~）&fontSize=13)](https://chat.getloli.com/room/@github-mch.github?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
 <tr>
 <td valign="top" width="50%">
-  
+
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=github-mch&show_icons=true&theme=dark&count_private=true)
+
   
 <!--
 **journey-ad/github-mch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
