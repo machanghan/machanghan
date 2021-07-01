@@ -44,10 +44,24 @@
 ##### Genshin Impact
 [![](https://genshin-card.getloli.com/detail/4,5,27-30,32,35,37-39/160596100.png)](https://genshin-card.getloli.com)
 
-⬇**点击下方图片留言**⬇️
+**点击下方图片留言**⬇️
 
-[![](https://chat.getloli.com/room/@journey-ad.github/svg?width=600&height=280&limit=20&theme=light&title=journey-ad@github:%20~&fontSize=13)](https://chat.getloli.com/room/@github-mch.github?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
-
-<table>
+[![](https://chat.getloli.com/room/@github-mch.github/svg?width=600&height=280&limit=20&theme=light&title=github-mch@github:%20~&fontSize=13)](https://chat.getloli.com/room/@github-mch.github?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
 <tr>
 <td valign="top" width="50%">
+  
+  
+<!--
+**journey-ad/github-mch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
