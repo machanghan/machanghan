@@ -8,8 +8,8 @@ MCH<img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right"
 - 掘金主页：https://juejin.cn/user/1319885702437864
 - 知乎专栏：https://www.zhihu.com/people/luo-jing-77-50
 - 开源中国：https://my.oschina.net/oschinamch
-- CSDN:https://blog.csdn.net/nanmch?spm=1010.2135.3001.5421
-- bilibili:https://space.bilibili.com/317277876
+- CSDN：https://blog.csdn.net/nanmch?spm=1010.2135.3001.5421
+- bilibili：https://space.bilibili.com/317277876
 - 公众号：负箧
 
 #### Platform&Tools
