@@ -1,5 +1,4 @@
-## 🐴 MCH
-
+## MCH
 > 我只想做我自己，就这么简单。
 
 ## :globe_with_meridians: 找到我
