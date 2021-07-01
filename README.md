@@ -1,8 +1,7 @@
-## MCH
-><img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+## MCH<img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
 > 我只想做我自己，就这么简单。
 
-## :globe_with_meridians: 找到我
+##  找到我
 
 - 个人网站：https://github-mch.github.io/
 - gitee：https://gitee.com/gitee-mch
@@ -19,7 +18,7 @@
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/RedmiNote-8%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
+[![](https://img.shields.io/badge/OnePlus-8%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
 [![](https://img.shields.io/badge/iPad-2017-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Blackberry-Classic-000000?style=flat-square&logo=blackberry&logoColor=ffffff)](https://www.blackberry.com/)
 
@@ -41,12 +40,9 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
-##### Genshin Impact
-[![](https://genshin-card.getloli.com/detail/4,5,27-30,32,35,37-39/160596100.png)](https://genshin-card.getloli.com)
-
 **点击下方图片留言**⬇️
 
-[![](https://chat.getloli.com/room/@github-mch.github/svg?width=600&height=280&limit=20&theme=light&title=github-mch@github:%20~&fontSize=13)](https://chat.getloli.com/room/@github-mch.github?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
+[![](https://chat.getloli.com/room/@github-mch.github/svg?width=600&height=280&limit=20&theme=light&title=留言板（github-mch@github:%20~—）&fontSize=13)](https://chat.getloli.com/room/@github-mch.github?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
 <tr>
 <td valign="top" width="50%">
   
