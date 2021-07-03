@@ -28,9 +28,7 @@
 
 
 ### bilibili
-<a href="https://space.bilibili.com/317277876">
-	<img stlye="src="https://github-mch.github.io/github-mch/img/bili.png"/>
-</a>
+
 
 <a href="https://space.bilibili.com/317277876">
 	<img stlye="src="https://https://github.com/github-mch/github-mch/github-mch/img/bili.png"/>
