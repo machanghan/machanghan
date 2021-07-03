@@ -29,8 +29,7 @@
 
 ### bilibili
 <a href="https://space.bilibili.com/317277876">
-
-	<img src="https://github.com/github-mch/github-mch/blob/main/img/bili.png" align="right"/>
+![image](public/img/bili.png)https://github.com/github-mch/img/bili.png)	
 </a>
 										  
 ##  找到我
