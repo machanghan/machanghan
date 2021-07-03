@@ -17,10 +17,20 @@
 
 <br />
 
+
+### 😆 主页浏览量
+<p>
+	<img src="https://count.getloli.com/get/@github-mch.github.readme"/>
+	<a href="">
+		<img src="https://i.loli.net/2021/06/24/Pp59k4csujxZoJR.png" align="right"/>
+	</a>
+</p>
+
+
 ### bilibili
 
 <a href="https://space.bilibili.com/317277876">
-	<img stlye="" src="https://misaka10843.github.io/misaka10843/img/bili.png"/>
+	<img stlye="" src="https://github-mch.github.io/github-mch/img/bili.jpg"/>
 </a>
 
 ##  找到我
