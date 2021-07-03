@@ -1,4 +1,4 @@
-## MCH https://github.com/github-mch<img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+## 关于MCH👋 https://github.com/github-mch<img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
 > 我只想做我自己，就这么简单。
 
 <br />
@@ -30,7 +30,7 @@
 ### bilibili
 
 <a href="https://space.bilibili.com/317277876">
-	<img stlye="" src="https://github-mch.github.io/github-mch/img/bili.png"/>
+	<img stlye="" src="https://github.com/github-mch/github-mch/img/bili.png"/>
 </a>
 
 ##  找到我
