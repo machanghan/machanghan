@@ -29,7 +29,7 @@
 
 ### bilibili
 <a href="https://space.bilibili.com/317277876">
-	<img stlye="src="https://https://github.com/github-mch/github-mch/github-mch/img/bili.png"/>
+	<img stlye="src="https://github.com/github-mch/github-mch/blob/main/img/bili.png"/>
 </a>
 
 
