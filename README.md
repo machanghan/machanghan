@@ -17,7 +17,6 @@
 
 <br />
 
-
 ### 😆 主页浏览量
 <p>
 	<img src="https://count.getloli.com/get/@github-mch.github.readme"/>
@@ -29,7 +28,7 @@
 
 ### bilibili
 <a href="https://space.bilibili.com/317277876">
-![image](public/img/bili.png)https://github.com/github-mch/img/bili.png)	
+	<img stlye="" src="https://github-mch.github.io/img/bili.png"/>
 </a>
 										  
 ##  找到我
