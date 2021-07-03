@@ -24,15 +24,7 @@
 		<img src="https://i.loli.net/2021/06/24/Pp59k4csujxZoJR.png" align="right"/>
 	</a>
 </p>
-
-
-### bilibili
-<a href="https://space.bilibili.com/317277876">
-
-	<a href="">
-		<img src="https://i.loli.net/2021/06/24/bili.png" align="right"/>
-</a>
-										  
+		  
 ##  找到我
 
 - 个人网站：https://github-mch.github.io/
@@ -43,8 +35,6 @@
 - CSDN：https://blog.csdn.net/nanmch?spm=1010.2135.3001.5421
 - bilibili：https://space.bilibili.com/317277876
 - 公众号：负箧
-
-
 
 ##  **点击下方图片留言**⬇️
 
