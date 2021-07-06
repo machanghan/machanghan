@@ -27,9 +27,9 @@
 
 ##  找到我
 
-![个人网站](https://user-images.githubusercontent.com/69033087/122642456-0d394780-d13d-11eb-9ca0-a2d52f9f31d5.png)[bilibili](https://github-mch.github.io/)
+![个人网站](https://user-images.githubusercontent.com/69033087/122642456-0d394780-d13d-11eb-9ca0-a2d52f9f31d5.png)[个人网站](https://github-mch.github.io/)
 
-![gitee](https://user-images.githubusercontent.com/69033087/122642456-0d394780-d13d-11eb-9ca0-a2d52f9f31d5.png)[bilibili](https://gitee.com/gitee-mch)
+![gitee](https://user-images.githubusercontent.com/69033087/122642456-0d394780-d13d-11eb-9ca0-a2d52f9f31d5.png)[gitee](https://gitee.com/gitee-mch)
 
 ![bilibili](https://user-images.githubusercontent.com/69033087/122642456-0d394780-d13d-11eb-9ca0-a2d52f9f31d5.png)[bilibili](https://space.bilibili.com/317277876)
 
