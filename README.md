@@ -21,7 +21,7 @@
 
 ### 😆 主页浏览量
 <p>
-	<img src="https://count.getloli.com/get/@github-mch.github.readme"/>
+	<img src="https://count.getloli.com/get/@fuqie2001.github.readme"/>
 	<a href="">
 		<img src="https://i.loli.net/2021/06/24/Pp59k4csujxZoJR.png" align="right"/>
 	</a>
@@ -32,8 +32,8 @@
 ### 🥳 个人GitHub统计
 <!-- ![Axetroy's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=axetroy&show_icons=true)
 ![Top Langs](https://github-readme-stats-seven-gilt.vercel.app//api/top-langs/?username=axetroy&layout=compact) -->
-![](https://github.com/axetroy/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/axetroy/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/fuqie2001/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/fuqie2001/github-stats/blob/master/generated/languages.svg)
 
 
 	
