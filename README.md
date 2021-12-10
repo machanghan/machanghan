@@ -29,7 +29,13 @@
 
 
 
-  
+<!-- ![Axetroy's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=axetroy&show_icons=true)
+![Top Langs](https://github-readme-stats-seven-gilt.vercel.app//api/top-langs/?username=axetroy&layout=compact) -->
+![](https://github.com/axetroy/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/axetroy/github-stats/blob/master/generated/languages.svg)
+
+
+
 ### 🥳 个人GitHub统计
 
 |                          GitHub状态                          |                        使用最多的语言                        |
