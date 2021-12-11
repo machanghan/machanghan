@@ -19,13 +19,6 @@
 
 <br />
 
-### 😆 主页浏览量
-<p>
-	<img src="https://count.getloli.com/get/@fuqie2001.github.readme"/>
-	<a href="">
-		<img src="https://i.loli.net/2021/06/24/Pp59k4csujxZoJR.png" align="right"/>
-	</a>
-</p>
 
 
 
