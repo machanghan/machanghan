@@ -22,9 +22,6 @@
 
 
 
-### 🥳 个人GitHub统计
-![](https://github.com/axetroy/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/axetroy/github-stats/blob/master/generated/languages.svg)
 
 
 	
