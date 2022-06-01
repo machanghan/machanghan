@@ -7,7 +7,7 @@
 
 	
 	
-	#### Platform&Tools
+
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
