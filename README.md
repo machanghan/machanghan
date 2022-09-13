@@ -1,4 +1,3 @@
-
 ## ⌨️ 我的方向
 1. 🟧HTML、🟥CSS、🟨JavaScript、🟦TypeScript
 2. 🟩Vue（Vue-router、Vuex、Pinia、Vite、Axios）
