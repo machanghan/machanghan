@@ -1,8 +1,7 @@
 ### Hi there 👋  This is Ma ChangHan! I am looking for a job.
-<a href="https://pudongping.github.io/medias/reward/wechat.png" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat id:UIDMCH&logoColor=white" /> 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/machanghan/)
 
-sponsor me<a href="https://pudongping.github.io/medias/reward/wechat.png" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /> OR <a href="https://pudongping.github.io/medias/reward/alipay.png" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a></a>
+sponsor me<a href="https://machanghan.github.io/mch/img/wechat.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://machanghan.github.io/mch/img/alipay.jpg" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a>
 
 🛠️ **Languages and Tools:**
 <p>
