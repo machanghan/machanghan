@@ -1,8 +1,14 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://machanghan.dev">Ma ChangHan</a></b>.
-    <br>I'm looking for a job.<br>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://machanghan.dev">马昌翰 (Ma ChangHan)</a></b>.
+    <br>I'm looking for a job.
+<p align="center">
+<a href="https://www.linkedin.com/in/machanghan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/machanghan_"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+    <br>
+
 
 </samp>
 
