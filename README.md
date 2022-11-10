@@ -9,7 +9,7 @@
 </samp>
 
 <p align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=machanghan&&show_icons=true&theme=github" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=machanghan&&show_icons=true&theme=github" width="400"/>
 <img alt="Ma ChangHan's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machanghan&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="400"/>
 
 </p>
