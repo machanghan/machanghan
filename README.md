@@ -22,9 +22,7 @@
 
 
 
-sponsor me 
-<a href="https://machanghan.github.io/images/wechat.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://machanghan.github.io/images/alipay.jpg" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a>
-    
+
     
     
     
