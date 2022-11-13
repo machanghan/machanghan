@@ -28,7 +28,38 @@
 
 sponsor me 
 <a href="https://machanghan.github.io/images/wechat.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://machanghan.github.io/images/alipay.jpg" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a>
+    
+    
+    
+    
+    
+    
 
+    
+    
+    
+    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=machanghan"></img>
+
+
+
+<div align="center">
+<summary>:trophy: Github Profile Trophy</summary>
+</div>
+
+
+    
+    
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=machanghan" alt="machanghan" /></a>
+</p>
+
+<img src="/github-metrics.svg" alt="" width="100%">
+
+
+
+
+![](https://count.getloli.com/get/@machanghan.github.readme)
 
     
 </samp>
