@@ -1,7 +1,6 @@
-<p align="center">
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://machanghan.github.io">马昌翰 (Changhan Ma)</a></b>.I'm looking for a job.<br>
-<p align="center">
+<p align="center"><samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://machanghan.github.io">马昌翰 (Changhan Ma)</a></b>.<br>
+<p align="center"><samp>I'm looking for a job.<br>
 <a href="https://www.linkedin.com/in/machanghan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!--<a href="https://www.instagram.com/machanghan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 -->
