@@ -1,5 +1,5 @@
 <p align="center"><samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://machanghan.github.io">马昌翰 (Changhan Ma)</a></b>.<br>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://machanghan.github.io">马昌翰 (Changhan Ma)</a>.
 <p align="center"><samp>I'm looking for a job.<br>
 <a href="https://www.linkedin.com/in/machanghan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!--<a href="https://www.instagram.com/machanghan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -23,7 +23,7 @@
 
 
 
-<p>sponsor me</p>
+sponsor me 
 <a href="https://machanghan.github.io/images/wechat.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://machanghan.github.io/images/alipay.jpg" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a>
 
 
