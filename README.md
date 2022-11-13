@@ -38,9 +38,6 @@ sponsor me
     
     
     
-    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=machanghan"></img>
-
 
 
 <div align="center">
@@ -54,14 +51,7 @@ sponsor me
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=machanghan" alt="machanghan" /></a>
 </p>
 
-<img src="/github-metrics.svg" alt="" width="100%">
 
-
-
-
-![](https://count.getloli.com/get/@machanghan.github.readme)
-
-    
 </samp>
 </details>
 
