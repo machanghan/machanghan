@@ -1,5 +1,5 @@
 <p align="center"><samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://machanghan.github.io">马昌翰 (Changhan Ma)
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/machanghan/">马昌翰 (Changhan Ma)
 
 
 
