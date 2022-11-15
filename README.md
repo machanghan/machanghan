@@ -31,20 +31,6 @@
 
     
     
-    
-
-
-<div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div>
-
-
-    
-    
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=machanghan" alt="machanghan" /></a>
-</p>
-
 
 </samp>
 </details>
