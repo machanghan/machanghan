@@ -14,10 +14,7 @@
 <img alt="Ma ChangHan's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machanghan&layout=compact&theme=dark" width="395"/>
     
 
-    
-    
-    
-    
+  
     
     
     
@@ -32,11 +29,10 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
+ ![](https://raw.githubusercontent.com/machanghan/machanghan/main/assets/github-contribution-grid-snake.svg)   
 
-
-
-    
-    
+  
+ 
     
     
     
