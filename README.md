@@ -1,6 +1,9 @@
 <p align="center"><samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/machanghan/">马昌翰 (Changhan Ma)
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/machanghan/count.svg" />
+</p>
 
 
 
