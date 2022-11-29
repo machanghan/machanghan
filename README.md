@@ -1,5 +1,5 @@
 <p align="center"><samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://blog.appiw.com">马昌翰 (Changhan Ma)
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://blog.appiw.com">马昌翰
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/machanghan/count.svg" />
@@ -26,8 +26,6 @@
 
 <summary> <b> <samp> Light bonfire </samp></b></summary>
 <samp>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
  ![](https://raw.githubusercontent.com/machanghan/machanghan/main/assets/github-contribution-grid-snake.svg)   
 
