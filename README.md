@@ -1,5 +1,5 @@
 
- <a href="http://blog.appiw.com"><img src="https://raw.githubusercontent.com/machanghan/machanghan/main/images/github.jpg"> </a>
+ <a href="http://blog.appiw.com"><img src="https://raw.githubusercontent.com/machanghan/machanghan/main/images/github.jpg" target="_blank"> </a>
 
 <details align="center">
 <summary> <b> <samp> Light bonfire </samp></b></summary>
