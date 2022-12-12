@@ -6,7 +6,7 @@
 <samp>
     
 <p align="center"><samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://blog.appiw.com">马昌翰
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://blog.appiw.com/contact/">马昌翰
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/machanghan/count.svg" />
