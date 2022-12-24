@@ -44,9 +44,9 @@
 联系方式:
     <br>
     
-社交媒体:<a href="https://raw.githubusercontent.com/machanghan/machanghan.github.io/main/gzh.jpg">公众号</a> 、<a href="https://juejin.cn/user/1319885702437864">掘金</a>、<a href="https://blog.appiw.com/blog">博客</a>、<a href="https://weibo.com/u/7773236212">微博</a>、<a href="https://space.bilibili.com/1347989091">哔哩哔哩</a>、<a href="https://v.douyin.com/r3EBabG/">抖音</a>、<a href="https://www.zhihu.com/people/machanghan">知乎</a>
+社交媒体:<a href="https://raw.githubusercontent.com/machanghan/machanghan.github.io/main/gzh.jpg" target="_blank">公众号</a> 、<a href="https://juejin.cn/user/1319885702437864" target="_blank">掘金</a>、<a href="https://blog.appiw.com/blog" target="_blank">博客</a>、<a href="https://weibo.com/u/7773236212" target="_blank">微博</a>、<a href="https://space.bilibili.com/1347989091" target="_blank">哔哩哔哩</a>、<a href="https://v.douyin.com/r3EBabG/" target="_blank">抖音</a>、<a href="https://www.zhihu.com/people/machanghan" target="_blank">知乎</a>
 
-邮箱: changhan.ma@foxmail.com / <a href="https://raw.githubusercontent.com/machanghan/contact/main/wx.png">微信号: UIDMCH</a>
+邮箱: changhan.ma@foxmail.com / <a href="https://raw.githubusercontent.com/machanghan/contact/main/wx.png" target="_blank">微信号: UIDMCH</a>
 
 
 
