@@ -9,8 +9,8 @@
  
  </samp>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=machanghan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img alt="Ma ChangHan's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machanghan&layout=compact&theme=dark" width="418"/>
+<img src="https://github-readme-stats.vercel.app/api?username=machanghan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="395"/>
+<img alt="Ma ChangHan's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machanghan&layout=compact&theme=dark" width="355"/>
 </p>
 
  
