@@ -9,6 +9,6 @@ Except programming, I also enjoy riding motorcycles(There is an ancient Chinese 
 - 微博：https://weibo.com/u/6193282540
 - GitHub：https://github.com/machanghan
 - 个人网站:https://machanghan.com/
-- 抖音:hhttps://v.douyin.com/iRw7Rugc/
+- 抖音:https://v.douyin.com/iRw7Rugc/
 - 哔哩哔哩：https://space.bilibili.com/317277876/
 - 公众号：马昌翰
