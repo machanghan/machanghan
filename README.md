@@ -11,4 +11,6 @@ Except programming, I also enjoy riding motorcycles(There is an ancient Chinese 
 - GitHub：https://github.com/machanghan
 - 抖音：https://v.douyin.com/iRw7Rugc/
 - 哔哩哔哩：https://space.bilibili.com/317277876/
-- 公众号：马昌翰
+- 公众号：
+  <br>
+<img src="https://raw.githubusercontent.com/machanghan/machanghan/main/images/wechat1.png" width = "300" height = "110" alt="公众号" align=center />
