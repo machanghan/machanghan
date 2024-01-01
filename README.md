@@ -3,7 +3,7 @@ I am an independent software developer currently based in China. Most of my work
 
 If you happen to speak Chinese, my Chinese name is 马昌翰 (mǎ chāng hàn)and I have a Chinese-only [X / Twitter alt](https://twitter.com/machanghan) for non-tech-focused musings.
 
-Except programming, I also enjoy riding motorcycles(There is an ancient Chinese poem：“春风得意马蹄疾 In the spring wind the proud horse ran a two-beat pace ,一日看尽长安花 I toured all sceneries of Chang-an in a day with grace. ”I think riding a motorcycle, I free as the wind, I saw myself, saw a wider world, saw all beings),I also enjoy writing,games,guitar, and running.
+Except programming, I also enjoy riding motorcycles(There is an ancient Chinese poem：“ In the spring wind the proud horse ran a two-beat pace , I toured all sceneries of Chang-an in a day with grace.(春风得意马蹄疾，一日看尽长安花.) ”I think riding a motorcycle, I free as the wind, I saw myself, saw a wider world, saw all beings),I also enjoy writing,games,guitar, and running.
 # Contact
 - 微信/QQ：2812248497
 - Blog：https://machanghan.com/
